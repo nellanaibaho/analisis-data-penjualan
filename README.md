@@ -36,6 +36,7 @@ Membersihkan Data Penjualan
 7. Hitung dan tampilkan total penjualan yang terkait dengan kode pelanggan yang salah.
 8. Buat grafik batang yang menunjukkan jumlah transaksi dan total penjualan untuk kode pelanggan yang valid dan tidak valid.
 9. Buat laporan singkat mengenai temuan perbedaan kode pelanggan, dampaknya terhadap total penjualan, dan rekomendasi tindakan selanjutnya.
+
 **#Langkah-Langkah Data Analitik**
 Langkah 1: Memuat Data
 A. Impor pustaka yang diperlukan
