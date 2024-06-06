@@ -13,6 +13,7 @@ TUGAS PENGKODEAN DAN PEMPROGRAMAN " DATA ANALITIS DATA PENJUALAN"  nama: Nella V
 ![Cuplikan layar 2024-06-06 110252](https://github.com/nellanaibaho/analisis-data-penjualan/assets/171895516/ccd626d0-f098-48cb-919a-a7e7a7edc7f0)
 
 **#LAPORAN TEMUAN**
+
 ![Cuplikan layar 2024-06-06 112559](https://github.com/nellanaibaho/analisis-data-penjualan/assets/171895516/dead4a04-0d96-4689-8ecd-80230fe91e07)
 
 
