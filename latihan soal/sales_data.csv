@@ -1,0 +1,6 @@
+OrderID,Date,Product,Category,Quantity,Price,CustomerID,Region
+1,2024-01-01,Widget A,Widgets,10,20.0,C001,North
+2,2024-01-02,Widget B,Widgets,5,25.0,C999,South
+3,2024-01-03,Gadget A,Gadgets,15,10.0,C003,East
+4,2024-01-04,Gadget B,Gadgets,20,15.0,C004,West
+5,2024-01-05,Widget A,Widgets,5,20.0,C999,North
